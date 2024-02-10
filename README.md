@@ -6,7 +6,7 @@
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=BianconiFilippo&label=Profile%20views&color=68a355&style=for-the-badge"
     alt="adam-pw" /> 
   </p>
-<p><img align="right" src="https://github.com/MartinSola55/MartinSola55/blob/main/Animation.gif" alt="adam-pw" /></p>
+<p><img align="right" src="Animation.gif" alt="adam-pw" /></p>
 <br>
 
 - 🌱 I’m currently learning Web Development and other programming languages
